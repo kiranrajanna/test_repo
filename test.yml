@@ -1,0 +1,3 @@
+# test file
+printf "Hello world"
+printf "echo"
